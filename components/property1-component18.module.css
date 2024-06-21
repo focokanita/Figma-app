@@ -1,0 +1,19 @@
+.continue {
+  position: absolute;
+  height: 50%;
+  width: 18.28%;
+  top: 23.68%;
+  left: 41.55%;
+  display: inline-block;
+}
+.property1component106 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 361px;
+  height: 38px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,48 @@
+.frameChild,
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 100px;
+  height: 188px;
+}
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  left: 215px;
+}
+.frameInner,
+.rectangleDiv {
+  left: 110px;
+}
+.rectangleDiv {
+  left: 320px;
+}
+.frameWrapper,
+.iphone1415Pro20Inner,
+.rectangleParent {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+}
+.rectangleParent {
+  top: 113px;
+  height: 195px;
+  overflow-x: auto;
+}
+.frameWrapper,
+.iphone1415Pro20Inner {
+  top: -112px;
+  height: 320px;
+  overflow: hidden;
+}
+.iphone1415Pro20Inner {
+  top: 636px;
+  width: 390px;
+  height: 141px;
+}

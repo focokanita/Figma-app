@@ -1,0 +1,33 @@
+.property1component53Child {
+  position: absolute;
+  height: 106.67%;
+  width: 100.63%;
+  top: -3.33%;
+  right: -0.31%;
+  bottom: -3.33%;
+  left: -0.31%;
+  box-shadow: 0 4px 4px rgba(0, 86, 92, 0.2);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.mediaAndCommunications {
+  position: absolute;
+  width: 79.06%;
+  top: 16.67%;
+  left: 12.81%;
+  font-weight: 600;
+  display: inline-block;
+}
+.property1component53 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 320px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightgray);
+  font-family: var(--font-proxima-nova);
+}

@@ -1,0 +1,9 @@
+.testTube {
+  width: 100%;
+  position: relative;
+  height: 27px;
+  background-image: url(/test-tube@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

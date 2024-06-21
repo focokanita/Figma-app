@@ -1,0 +1,65 @@
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 364px;
+  height: 75px;
+}
+.frameItem {
+  top: 86px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 6.05%;
+  width: 3.82%;
+  top: 46.97%;
+  right: 10.18%;
+  bottom: 46.97%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameInner {
+  position: absolute;
+  top: 167px;
+  left: 14px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 364px;
+  height: 75px;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 6.05%;
+  width: 3.82%;
+  top: 79.78%;
+  right: 10.18%;
+  bottom: 14.16%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  top: 14.16%;
+  bottom: 79.78%;
+}
+.component105,
+.rectangleParent {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 393px;
+  height: 53px;
+}
+.rectangleParent {
+  top: 410px;
+  background-color: var(--color-white);
+  height: 185px;
+  overflow-y: auto;
+}

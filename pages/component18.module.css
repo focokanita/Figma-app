@@ -1,0 +1,18 @@
+.register {
+  position: absolute;
+  height: 80%;
+  width: 30.49%;
+  top: 10%;
+  left: 34.75%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component96 {
+  width: 100%;
+  position: relative;
+  height: 30px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

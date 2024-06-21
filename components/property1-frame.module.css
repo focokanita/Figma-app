@@ -1,0 +1,32 @@
+.login,
+.login1 {
+  position: absolute;
+}
+.login1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+}
+.login {
+  top: 5px;
+  left: 90px;
+  width: 72px;
+  height: 27px;
+}
+.property1frame21 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 253px;
+  height: 37px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-proxima-nova);
+}

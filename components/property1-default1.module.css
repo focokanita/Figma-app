@@ -1,0 +1,48 @@
+.getStarted {
+  position: absolute;
+  top: 13px;
+  left: 75px;
+  font-weight: 800;
+  display: inline-block;
+  width: 133px;
+  height: 27px;
+}
+.tempimageocd2jm2 {
+  position: absolute;
+  top: -673px;
+  left: 115px;
+  width: 834px;
+  height: 1212px;
+}
+.tempimageocd2jm1,
+.tempimageocd2jm21,
+.tempimageocd2jm3 {
+  position: absolute;
+  top: -334px;
+  left: 17px;
+  width: 834px;
+  height: 1212px;
+}
+.tempimageocd2jm1,
+.tempimageocd2jm21 {
+  top: -578px;
+  left: 131px;
+}
+.tempimageocd2jm1 {
+  top: 110px;
+  left: 176px;
+}
+.property1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkcyan);
+  width: 282px;
+  height: 53px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-proxima-nova);
+}

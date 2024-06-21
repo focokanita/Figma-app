@@ -1,0 +1,23 @@
+.register {
+  position: absolute;
+  top: 5px;
+  left: 71px;
+  font-weight: 800;
+  display: inline-block;
+  width: 111px;
+  height: 27px;
+}
+.property1default {
+  position: absolute;
+  top: 151px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  width: 253px;
+  height: 37px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-proxima-nova);
+}

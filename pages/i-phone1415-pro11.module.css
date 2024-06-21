@@ -1,0 +1,41 @@
+.tempimageocd2jm1 {
+  position: absolute;
+  top: -121px;
+  left: -99px;
+  width: 834px;
+  height: 1212px;
+}
+.stack {
+  color: var(--color-darkcyan);
+}
+.buildYourDreams,
+.skillstack {
+  position: absolute;
+  top: 817px;
+  left: 168px;
+  font-weight: 500;
+  display: inline-block;
+  width: 56px;
+  height: 24px;
+}
+.buildYourDreams {
+  top: 553px;
+  left: 114px;
+  font-size: var(--font-size-xs);
+  font-weight: 800;
+  font-family: var(--font-proxima-nova);
+  color: var(--color-lightgray);
+  text-align: center;
+  width: 165px;
+  height: 83px;
+}
+.iphone1415Pro23 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 880px;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-orbitron);
+}

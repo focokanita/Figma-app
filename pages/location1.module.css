@@ -1,0 +1,9 @@
+.location {
+  width: 100%;
+  position: relative;
+  height: 15px;
+  background-image: url(/location@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

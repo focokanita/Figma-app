@@ -1,0 +1,6 @@
+.heart {
+  width: 100%;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+}

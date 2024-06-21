@@ -1,0 +1,30 @@
+.component6Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.next {
+  position: absolute;
+  height: 71.7%;
+  width: 81.25%;
+  top: 13.21%;
+  left: 7.74%;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.component6 {
+  width: 336px;
+  height: 53px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-lightgray);
+  font-family: var(--font-roboto);
+}

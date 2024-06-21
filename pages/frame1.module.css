@@ -1,0 +1,11 @@
+.frameDiv {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px transparent;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  height: 57px;
+  overflow: hidden;
+}

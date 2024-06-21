@@ -1,0 +1,11 @@
+.html {
+  width: 70px;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  font-weight: 800;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  height: 24px;
+}

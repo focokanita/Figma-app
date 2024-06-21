@@ -1,0 +1,20 @@
+.rectangle {
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 5px;
+}
+.homeBar {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 70px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 0 0;
+  box-sizing: border-box;
+}

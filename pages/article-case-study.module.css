@@ -1,0 +1,13 @@
+.article {
+  margin: 0;
+}
+.articleCaseStudyContainer {
+  width: 161px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  height: 294px;
+}

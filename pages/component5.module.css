@@ -1,0 +1,9 @@
+.component22 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet-100);
+  box-sizing: border-box;
+  height: 136px;
+  overflow-y: auto;
+}

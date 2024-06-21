@@ -1,0 +1,11 @@
+.simulations {
+  width: 246px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  height: 35px;
+}

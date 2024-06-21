@@ -1,0 +1,9 @@
+.toggleOff {
+  width: 100%;
+  position: relative;
+  height: 40px;
+  background-image: url(/toggle-off@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

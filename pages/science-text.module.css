@@ -1,0 +1,11 @@
+.science {
+  width: 48px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  font-family: var(--font-proxima-nova);
+  color: var(--color-lightgray);
+  text-align: left;
+  display: inline-block;
+  height: 17px;
+}

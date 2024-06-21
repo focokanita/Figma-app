@@ -1,0 +1,352 @@
+.stack {
+  color: var(--color-darkcyan);
+}
+.skillstack {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 125px;
+  height: 23px;
+}
+.plusCircleIcon,
+.searchIcon,
+.sendIcon,
+.skillstackParent {
+  position: absolute;
+  top: 9px;
+  left: 358px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.plusCircleIcon,
+.sendIcon,
+.skillstackParent {
+  top: 8px;
+  left: 321px;
+}
+.plusCircleIcon,
+.skillstackParent {
+  left: 284px;
+}
+.skillstackParent {
+  top: 56px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 42px;
+}
+.component102Icon {
+  position: absolute;
+  top: 110px;
+  left: 19px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.iphone1415Pro18Child {
+  position: absolute;
+  top: 169px;
+  left: -2px;
+  width: 395px;
+  height: 607px;
+  overflow-y: auto;
+}
+.component98globeIcon,
+.heartIcon,
+.vectorIcon {
+  position: absolute;
+  height: 14.31%;
+  width: 2.16%;
+  top: 10.52%;
+  right: 18.58%;
+  bottom: 75.17%;
+  left: 79.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component98globeIcon,
+.heartIcon {
+  height: 51.72%;
+  width: 7.61%;
+  top: 24.14%;
+  right: 63.97%;
+  bottom: 24.14%;
+  left: 28.42%;
+}
+.component98globeIcon {
+  right: 43.41%;
+  left: 48.98%;
+}
+.property1vectorIcon {
+  position: absolute;
+  top: 22px;
+  left: 58.2px;
+  width: 6.6px;
+  height: 4px;
+  object-fit: contain;
+}
+.property1variant5Icon,
+.property1variant6Icon {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 7px;
+  height: 2.1px;
+  object-fit: contain;
+}
+.property1variant5Icon {
+  top: 42px;
+  left: 58px;
+  width: 6.7px;
+  height: 7.2px;
+}
+.property1boxIcon {
+  position: absolute;
+  height: 42.55%;
+  width: 33.98%;
+  top: 28.37%;
+  right: 33.18%;
+  bottom: 29.08%;
+  left: 32.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property1smartphoneIcon {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.component100 {
+  height: 121.55%;
+  width: 22.39%;
+  top: 100%;
+  right: 29.9%;
+  bottom: -121.55%;
+  left: 47.71%;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet-200);
+  box-sizing: border-box;
+}
+.component100,
+.component1001,
+.homeIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.component1001 {
+  height: 121.55%;
+  width: 22.39%;
+  top: -10.34%;
+  right: 15.42%;
+  bottom: -11.21%;
+  left: 62.19%;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet-200);
+  box-sizing: border-box;
+}
+.homeIcon {
+  height: 51.72%;
+  width: 7.61%;
+  top: 24.14%;
+  right: 84.53%;
+  bottom: 24.14%;
+  left: 7.86%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.property1userCheckIcon {
+  position: absolute;
+  top: 22px;
+  left: 26px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.component99,
+.property1vectorIcon2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 30px;
+  height: 30px;
+}
+.component99 {
+  height: 120.69%;
+  width: 18.02%;
+  top: -10.34%;
+  right: 0.51%;
+  bottom: -10.34%;
+  left: 81.48%;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet-200);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.rectangle {
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 5px;
+}
+.homeBar {
+  position: absolute;
+  height: 58.62%;
+  width: 100%;
+  top: 55.17%;
+  right: 0;
+  bottom: -13.79%;
+  left: 0;
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+}
+.iphone1415Pro18Item,
+.vectorParent {
+  position: absolute;
+  top: 782px;
+  left: -2px;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 58px;
+  overflow: hidden;
+}
+.iphone1415Pro18Item {
+  height: 1.17%;
+  width: 100%;
+  top: 98.71%;
+  right: 0.51%;
+  bottom: 0.12%;
+  left: -0.51%;
+}
+.property1vectorIcon5 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.homeBar1 {
+  position: absolute;
+  height: 58.62%;
+  width: 100%;
+  top: 55.17%;
+  right: 0;
+  bottom: -13.79%;
+  left: 0;
+  background-color: var(--color-gray-200);
+}
+.vectorGroup {
+  position: absolute;
+  top: 783px;
+  left: -2px;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 58px;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  width: 134px;
+  height: 5px;
+}
+.rectangleWrapper {
+  position: absolute;
+  height: 1.29%;
+  width: 100%;
+  top: 98.71%;
+  right: 0.51%;
+  bottom: 0;
+  left: -0.51%;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.timeIcon {
+  width: 40px;
+  position: relative;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.time {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  height: 59px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.dynamicIsland {
+  width: 125px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  height: 37px;
+}
+.batteryIcon,
+.receptionIcon {
+  width: 18px;
+  position: relative;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.batteryIcon {
+  width: 28px;
+  height: 13px;
+}
+.icons,
+.statusBar {
+  background-color: var(--color-gray-100);
+  height: 59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icons {
+  flex: 1;
+  overflow: hidden;
+  gap: var(--gap-5xs);
+}
+.statusBar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  overflow-y: auto;
+}
+.iphone1415Pro18 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-orbitron);
+}

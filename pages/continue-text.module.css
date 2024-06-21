@@ -1,0 +1,11 @@
+.continue {
+  width: 148px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 30px;
+}

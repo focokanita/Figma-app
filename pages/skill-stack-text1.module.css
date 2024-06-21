@@ -1,0 +1,14 @@
+.stack {
+  color: var(--color-darkcyan);
+}
+.skillstack {
+  width: 125px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-orbitron);
+  text-align: left;
+  display: inline-block;
+  height: 23px;
+  color: var(--color-darkslategray);
+}

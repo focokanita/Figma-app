@@ -1,0 +1,39 @@
+.register1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+}
+.register {
+  position: absolute;
+  top: 5px;
+  left: 71px;
+  width: 111px;
+  height: 27px;
+}
+.property1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 253px;
+  height: 37px;
+  overflow: hidden;
+}
+.property1defaultParent {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet-100);
+  box-sizing: border-box;
+  height: 208px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-proxima-nova);
+}

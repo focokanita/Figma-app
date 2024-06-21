@@ -1,0 +1,176 @@
+.tempimageocd2jm1 {
+  position: absolute;
+  top: 5px;
+  left: -104px;
+  width: 834px;
+  height: 1212px;
+}
+.stack {
+  color: var(--color-darkcyan);
+}
+.buildYourDreams,
+.skillstack {
+  position: absolute;
+  display: inline-block;
+}
+.skillstack {
+  top: 809px;
+  left: 169px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  font-family: var(--font-orbitron);
+  width: 56px;
+  height: 24px;
+}
+.buildYourDreams {
+  top: 209px;
+  left: 11px;
+  font-weight: 800;
+  width: 165px;
+  height: 83px;
+}
+.buildYourDreamsWrapper {
+  position: absolute;
+  top: 78px;
+  left: 105px;
+  width: 182px;
+  height: 223px;
+  overflow: hidden;
+  background-image: url(/frame-15@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightgray);
+  font-family: var(--font-proxima-nova);
+}
+.login,
+.register {
+  position: absolute;
+  display: inline-block;
+}
+.register {
+  top: 648px;
+  left: 169px;
+  color: var(--color-white);
+  text-align: center;
+  width: 64px;
+  height: 22px;
+}
+.login {
+  top: 8px;
+  left: 167px;
+  font-weight: 600;
+  width: 43px;
+  height: 21px;
+}
+.loginWrapper {
+  position: absolute;
+  top: 551px;
+  left: 6px;
+  box-shadow: 0 4px 4px transparent;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-darkslategray);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 376px;
+  height: 38px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.createAccount {
+  position: absolute;
+  top: 8px;
+  left: 132px;
+  font-weight: 600;
+  display: inline-block;
+  width: 112px;
+  height: 21px;
+}
+.createAccountWrapper {
+  position: absolute;
+  top: 691px;
+  left: 6px;
+  box-shadow: 0 4px 4px transparent;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 376px;
+  height: 38px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+}
+.emailAddressOr {
+  position: absolute;
+  top: 20px;
+  left: 14px;
+  font-weight: 500;
+  display: inline-block;
+  width: 258px;
+  height: 28px;
+}
+.emailAddressOrUsernameWrapper {
+  position: absolute;
+  top: 353px;
+  left: 25px;
+  box-shadow: 0 4px 4px transparent;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 331px;
+  height: 57px;
+  overflow: hidden;
+  font-size: var(--font-size-mini);
+  color: var(--color-lightgray);
+}
+.password {
+  position: absolute;
+  top: 20px;
+  left: 12px;
+  font-weight: 500;
+  display: inline-block;
+  width: 258px;
+  height: 28px;
+}
+.passwordWrapper {
+  position: absolute;
+  top: 437px;
+  left: 25px;
+  box-shadow: 0 4px 4px transparent;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 331px;
+  height: 54px;
+  overflow: hidden;
+  font-size: var(--font-size-mini);
+  color: var(--color-lightgray);
+}
+.forgottenPassword {
+  position: absolute;
+  top: 601px;
+  left: 135px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+  width: 127px;
+  height: 17px;
+}
+.iphone1415Pro9 {
+  width: 100%;
+  position: relative;
+  background-color: #fffefe;
+  height: 852px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}

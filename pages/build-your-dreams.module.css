@@ -1,0 +1,11 @@
+.buildYourDreams {
+  width: 165px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-weight: 800;
+  font-family: var(--font-proxima-nova);
+  color: var(--color-lightgray);
+  text-align: center;
+  display: inline-block;
+  height: 83px;
+}

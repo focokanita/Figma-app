@@ -1,0 +1,111 @@
+.loadingIcon {
+  position: absolute;
+  top: 308px;
+  left: 77px;
+  width: 263px;
+  height: 275px;
+  object-fit: cover;
+}
+.pleaseWait {
+  margin: 0;
+}
+.pleaseWaitAnalysingContainer {
+  position: absolute;
+  top: 108px;
+  left: 17px;
+  font-weight: 900;
+  display: inline-block;
+  width: 350px;
+  height: 91px;
+}
+.timeIcon {
+  width: 40px;
+  position: relative;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.time {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  height: 59px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.dynamicIsland {
+  width: 125px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  height: 37px;
+}
+.batteryIcon,
+.receptionIcon {
+  width: 18px;
+  position: relative;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.batteryIcon {
+  width: 28px;
+  height: 13px;
+}
+.icons,
+.statusBar {
+  background-color: var(--color-gray-100);
+  height: 59px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icons {
+  flex: 1;
+  gap: var(--gap-5xs);
+}
+.statusBar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.rectangle {
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 5px;
+}
+.homeBar {
+  position: absolute;
+  width: 100%;
+  top: 818px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  height: 34px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+}
+.iphone1415Pro19 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}

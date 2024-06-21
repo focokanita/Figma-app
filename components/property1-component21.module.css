@@ -1,0 +1,33 @@
+.property1component15Child {
+  position: absolute;
+  height: 106.67%;
+  width: 102.86%;
+  top: -3.33%;
+  right: -1.43%;
+  bottom: -3.33%;
+  left: -1.43%;
+  box-shadow: 0 4px 4px rgba(0, 86, 92, 0.2);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.arts {
+  position: absolute;
+  width: 55.71%;
+  top: 16.67%;
+  left: 22.86%;
+  font-weight: 600;
+  display: inline-block;
+}
+.property1component15 {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  width: 70px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightgray);
+  font-family: var(--font-proxima-nova);
+}

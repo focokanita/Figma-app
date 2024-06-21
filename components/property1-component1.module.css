@@ -1,0 +1,27 @@
+.component8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+}
+.continue {
+  position: absolute;
+  height: 56.6%;
+  width: 46.25%;
+  top: 20.75%;
+  left: 27.5%;
+  font-weight: 800;
+  display: inline-block;
+}
+.property1component89 {
+  width: 320px;
+  height: 53px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-proxima-nova);
+}

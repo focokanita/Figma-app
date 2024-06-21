@@ -1,0 +1,27 @@
+.component112Child,
+.component112Inner,
+.component112Item {
+  position: absolute;
+  height: 100%;
+  width: 27.15%;
+  top: 0;
+  right: 72.85%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.component112Inner,
+.component112Item {
+  right: 0;
+  left: 72.85%;
+}
+.component112Inner {
+  right: 37.99%;
+  left: 34.86%;
+}
+.component112 {
+  width: 100%;
+  position: relative;
+  height: 73px;
+  overflow: hidden;
+}

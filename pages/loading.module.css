@@ -1,0 +1,9 @@
+.loading {
+  width: 100%;
+  position: relative;
+  height: 512px;
+  background-image: url(/loading@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

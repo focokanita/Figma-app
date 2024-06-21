@@ -1,0 +1,505 @@
+.unlockYourExperience {
+  position: absolute;
+  top: 104px;
+  left: 36px;
+  font-weight: 900;
+  display: inline-block;
+  width: 376px;
+  height: 122px;
+}
+.chooseYourPath {
+  position: absolute;
+  top: 185px;
+  left: 35px;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-lightgray);
+  width: 320px;
+  height: 67px;
+}
+.iphone1415Pro5Child {
+  position: absolute;
+  top: 59px;
+  left: 15px;
+  border-radius: var(--br-3xs);
+  width: 41px;
+  height: 23px;
+  overflow: hidden;
+}
+.photographer {
+  position: absolute;
+  top: 627px;
+  left: 226px;
+  font-weight: 500;
+  display: inline-block;
+  width: 93px;
+  height: 27px;
+}
+.photographyIcon {
+  position: absolute;
+  top: 590px;
+  left: 259px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.dentist {
+  position: absolute;
+  top: 628px;
+  left: 136px;
+  font-weight: 500;
+  display: inline-block;
+  width: 53px;
+  height: 25px;
+}
+.dentistIcon {
+  position: absolute;
+  top: 590px;
+  left: 148px;
+  width: 26px;
+  height: 27px;
+  object-fit: cover;
+}
+.veterinarian {
+  position: absolute;
+  top: 628px;
+  left: 10px;
+  font-weight: 500;
+  display: inline-block;
+  width: 78px;
+  height: 17px;
+}
+.teachIcon {
+  position: absolute;
+  top: 14px;
+  left: 38px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.mechanic,
+.socialWorker {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.socialWorker {
+  top: 529px;
+  left: 238px;
+  text-align: center;
+  width: 68px;
+  height: 19px;
+}
+.mechanic {
+  top: 535px;
+  left: 131px;
+  width: 70px;
+  height: 13px;
+}
+.systemIcon {
+  position: absolute;
+  top: 493px;
+  left: 148px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.financialAnalyst {
+  position: absolute;
+  top: 525px;
+  left: 20px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 57px;
+  height: 28px;
+}
+.presentationIcon {
+  position: absolute;
+  top: 493px;
+  left: 37px;
+  width: 26px;
+  height: 24px;
+  object-fit: cover;
+}
+.journalist,
+.psychologist {
+  position: absolute;
+  top: 434px;
+  left: 233px;
+  font-weight: 500;
+  display: inline-block;
+  width: 83px;
+  height: 21px;
+}
+.journalist {
+  top: 433px;
+  left: 131px;
+  width: 66px;
+  height: 22px;
+}
+.journalistIcon {
+  position: absolute;
+  top: 397px;
+  left: 147px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.architect,
+.electrician,
+.policeOfficer {
+  position: absolute;
+  top: 433px;
+  left: 19px;
+  font-weight: 500;
+  display: inline-block;
+  width: 59px;
+  height: 17px;
+}
+.electrician,
+.policeOfficer {
+  top: 339px;
+  left: 231px;
+  width: 92px;
+  height: 20px;
+}
+.electrician {
+  left: 129px;
+  width: 77px;
+  height: 15px;
+}
+.accountant,
+.chef,
+.graphicDesigner,
+.marketingManager {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  width: 76px;
+}
+.marketingManager {
+  top: 334px;
+  left: 11px;
+  text-align: center;
+  height: 17px;
+}
+.accountant,
+.chef,
+.graphicDesigner {
+  top: 242px;
+  left: 239px;
+  height: 26px;
+}
+.chef,
+.graphicDesigner {
+  left: 146px;
+  width: 39px;
+  height: 15px;
+}
+.graphicDesigner {
+  top: 237px;
+  left: 5px;
+  text-align: center;
+  width: 87px;
+  height: 22px;
+}
+.doctor,
+.engineer,
+.lawyer,
+.nurse,
+.softwareDeveloper,
+.teacher {
+  position: absolute;
+  top: 148px;
+  left: 255px;
+  font-weight: 500;
+  display: inline-block;
+  width: 44px;
+  height: 19px;
+}
+.doctor,
+.engineer,
+.lawyer,
+.softwareDeveloper,
+.teacher {
+  top: 146px;
+  left: 139px;
+  width: 48px;
+  height: 13px;
+}
+.doctor,
+.engineer,
+.softwareDeveloper,
+.teacher {
+  top: 142px;
+  left: 19px;
+  width: 58px;
+  height: 14px;
+}
+.doctor,
+.softwareDeveloper,
+.teacher {
+  top: 49px;
+  left: 24px;
+  width: 55px;
+  height: 23px;
+}
+.doctor,
+.softwareDeveloper {
+  top: 48px;
+  left: 141px;
+  width: 44px;
+  height: 17px;
+}
+.softwareDeveloper {
+  top: 44px;
+  left: 241px;
+  text-align: center;
+  width: 66px;
+  height: 25px;
+}
+.customerInsightsManager,
+.lawIcon,
+.webMarketingIcon {
+  position: absolute;
+  top: 493px;
+  left: 259px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.lawIcon,
+.webMarketingIcon {
+  top: 301px;
+  left: 35px;
+}
+.lawIcon {
+  top: 109px;
+  left: 148px;
+  width: 25px;
+}
+.developmentSkillIcon,
+.drawingCompassIcon,
+.outPatientDepartment {
+  position: absolute;
+  top: 11px;
+  left: 259px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.drawingCompassIcon,
+.outPatientDepartment {
+  top: 10px;
+  left: 148px;
+  height: 27px;
+}
+.drawingCompassIcon {
+  top: 397px;
+  left: 35px;
+  height: 26px;
+}
+.chefHatIcon,
+.rodOfAsclepius,
+.taxIcon,
+.veterinarianIcon,
+.wacomTabletIcon {
+  position: absolute;
+  top: 206px;
+  left: 36px;
+  width: 25px;
+  height: 26px;
+  object-fit: cover;
+}
+.chefHatIcon,
+.rodOfAsclepius,
+.taxIcon,
+.veterinarianIcon {
+  left: 147px;
+  width: 26px;
+}
+.rodOfAsclepius,
+.taxIcon,
+.veterinarianIcon {
+  top: 111px;
+  left: 261px;
+}
+.taxIcon,
+.veterinarianIcon {
+  top: 206px;
+}
+.veterinarianIcon {
+  top: 590px;
+  left: 36px;
+}
+.mentalHealthIcon,
+.policeIcon,
+.solderingIronIcon,
+.workersIcon {
+  position: absolute;
+  top: 397px;
+  left: 261px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.policeIcon,
+.solderingIronIcon,
+.workersIcon {
+  top: 110px;
+  left: 35px;
+}
+.policeIcon,
+.solderingIronIcon {
+  top: 303px;
+  left: 148px;
+}
+.policeIcon {
+  left: 259px;
+}
+.component68Parent {
+  position: absolute;
+  top: 212px;
+  left: 38px;
+  width: 328px;
+  height: 566px;
+  overflow-y: auto;
+  font-size: var(--font-size-sm);
+}
+.rectangle {
+  width: 134px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 5px;
+}
+.homeBar {
+  position: absolute;
+  top: calc(50% + 393px);
+  left: calc(50% - 189.5px);
+  background-color: var(--color-gray-200);
+  width: 393px;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+}
+.continue {
+  position: absolute;
+  top: 792px;
+  left: 168px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-white);
+  text-align: center;
+  width: 66px;
+  height: 19px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  border-radius: var(--br-3xs);
+  width: 72px;
+  height: 69px;
+  object-fit: cover;
+}
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  position: absolute;
+  top: 6px;
+  left: 172px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 74px;
+  height: 58px;
+}
+.frameInner,
+.rectangleDiv {
+  left: 254px;
+}
+.rectangleDiv {
+  left: 336px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1006px;
+  left: 43px;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 69px;
+  overflow-x: auto;
+}
+.timeIcon {
+  width: 40px;
+  position: relative;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.time {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  height: 59px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.dynamicIsland {
+  width: 125px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  height: 37px;
+}
+.batteryIcon,
+.receptionIcon {
+  width: 18px;
+  position: relative;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.batteryIcon {
+  width: 28px;
+  height: 13px;
+}
+.icons,
+.statusBar {
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icons {
+  flex: 1;
+  height: 59px;
+  overflow: hidden;
+  gap: var(--gap-5xs);
+}
+.statusBar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.iphone1415Pro5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 852px;
+  text-align: left;
+  font-size: 35px;
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}

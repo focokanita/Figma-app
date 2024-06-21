@@ -1,0 +1,8 @@
+.frameDiv {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  height: 63px;
+  overflow: hidden;
+}
